@@ -1,0 +1,41 @@
+ {
+ "title": "aaa",
+ "msg": "bbb",
+ "count": 0,
+ "banner":[
+			{ 
+ 				"name": "",
+ 				"url":"https://itunes.apple.com/cn/app/id1410664834?mt=8&at=1l3vntR&ct=qm",
+ 				"img": "https://i.loli.net/2018/10/23/5bce95c54e6c7.png"
+			},
+		
+		{ 
+ 				"name": "",
+ 				"url":"https://itunes.apple.com/cn/app/id1381077521?mt=8",
+ 				"img": "https://i.loli.net/2018/10/23/5bce954989b4a.png"
+			},
+
+ 			{ 
+ 				"name": "",
+ 				"url":"https://itunes.apple.com/cn/app/id1383613748?mt=8",
+ 				"img": "https://i.loli.net/2018/10/23/5bce956473cfe.png"
+			}
+
+ 		],
+ "items": [
+
+ 			{ 
+ 				"title": "去看看",
+ 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
+			},
+			 			{ 
+ 				"title": "去看看",
+ 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
+			}, 			{ 
+ 				"title": "取消",
+ 				"url": "url"
+			}
+
+
+ 		]
+ }
